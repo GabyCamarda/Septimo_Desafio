@@ -1,0 +1,21 @@
+{
+  "name": "knex_sqlite3",
+  "version": "1.0.0",
+  "description": "// npx knex init",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.11",
+    "sqlite3": "^5.0.2",
+    "upgrade": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
